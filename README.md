@@ -4,6 +4,8 @@ hlconnect - programm, that will help you, if your Half-Life server browser dont 
 file: | file contains:
 ------|------------------
 readme.md | description
-hlconnect.rar | source code - newestconnect.txt | exe file - internal folder, backphoto folder, path.txt, and hlconnect.exe
+hlconnect.rar | source code | exe file
+# other info;
+source code - newestconnect.txt | exe file - internal folder, backphoto folder, path.txt, and hlconnect.exe
 # where the files?
 soon!
